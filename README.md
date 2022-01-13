@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning Flutter Applications
 - 📫 How to reach me ... 
-Contact me on Facebook https://www.facebook.com/A2Kar/
+Contact me on LinkedIn https://www.linkedin.com/in/ahd-karman
 or on Whatsapp +967717258729
 
 <!---
